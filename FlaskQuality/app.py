@@ -4,7 +4,7 @@ import sqlite3
 from flask import Flask, render_template, request, url_for, flash, redirect, abort, session
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'NF$*SmoothstackSD*$^FN'
+app.config['SECRET_KEY'] = 'SECRET HERE'
 
 # Message with dict for 'index.html'
 

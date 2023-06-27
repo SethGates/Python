@@ -27,5 +27,5 @@ CREATE TABLE admin (
 
 
 -- Uses INTEGER for the ID, first row
--- the second row uses TIEMSTAMP, pulling from the sys time
+-- the second row uses TIMESTAMP, pulling from the sys time
 -- the third row uses TEXT for the title, specifying NOT NULL. The last row is the same for content

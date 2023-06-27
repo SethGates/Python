@@ -1,0 +1,2 @@
+<h1 align="center">This repository shows scripts to be used to populate a Database for a Bank, using microservices with Maven.</h1>
+<h3 align="center">This is a FAKE bank, but the application could have real use.</h3>
